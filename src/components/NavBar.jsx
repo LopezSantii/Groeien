@@ -12,11 +12,11 @@ import {
 export default function NavBar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  const menuItems = ["Nosotros", "Planes", "Contacto"];
+  const menuItems = ["Nosotros", "Planes", "Clientes"];
 
   return (
     <Navbar
-      position="static"
+      position="sticky"
       classNames={{ wrapper: "justify-center" }}
       onMenuOpenChange={setIsMenuOpen}
     >
@@ -45,7 +45,12 @@ export default function NavBar() {
       <NavbarMenu>
         {menuItems.map((item, index) => (
           <NavbarMenuItem key={`${item}-${index}`}>
-            <Link color={"foreground"} className="w-full" href="#" size="lg">
+            <Link
+              color={"foreground"}
+              className="w-full"
+              href={`#${item.toLowerCase()}`}
+              size="lg"
+            >
               {item}
             </Link>
           </NavbarMenuItem>
