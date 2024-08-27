@@ -9,7 +9,7 @@ import {
 
 export default function CardPlan({ info, name, user }) {
   return (
-    <Card isBlurred className=" min-w-[250px]">
+    <Card isBlurred className="md:min-w-[250px]">
       <CardHeader className="flex gap-3">
         <div className="flex flex-col">
           <p className="text-md">{name}</p>

@@ -13,7 +13,7 @@ function App() {
       <NavBar />
       <main className="flex flex-col items-center">
         <Header />
-        <div className="flex flex-col items-center gap-36 lg:gap-64 max-w-[62vw]">
+        <div className="flex flex-col items-center gap-36 lg:gap-64 md:max-w-[62vw] px-12 md:px-0">
           <section className="nosotros">
             <h2 id="nosotros" className="text-4xl font-semibold mb-10">
               Sobre <span style={{ color: "white" }}>Nosotros</span>
