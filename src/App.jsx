@@ -23,13 +23,13 @@ function App() {
               <div className="flex flex-col">
                 <div className="flex flex-col gap-10">
                   <CardUser
-                    img="./img/WhatsApp Image 2024-03-19 at 6.44.31 PM.jpeg"
+                    img="/WhatsApp Image 2024-03-19 at 6.44.31 PM.jpeg"
                     name="Flor"
                     user="@Florchu"
                     description="Hola 👋 soy la Comunity Manager del equipo"
                   />
                   <CardUser
-                    img="./img/9EBC93CC-9966-4F0F-86E4-DB696508A0CD.jpg"
+                    img="/9EBC93CC-9966-4F0F-86E4-DB696508A0CD.JPG"
                     name="Santi"
                     user="@santurron"
                     description="Hola 👋 soy el desarrollador del equipo"
@@ -63,25 +63,25 @@ function App() {
             <section className="grid grid-cols-3 gap-x-3 md:gap-y-6 gap-y-4">
               <div className="md:col-span-1 col-span-3">
                 <Proyectos
-                  avatarimg={"./img/logoProtect.jpeg"}
+                  avatarimg={"/logoProtect.jpeg"}
                   name={"Protect Group"}
-                  img={"./img/protecGroup.jpg"}
+                  img={"/protecGroup.jpg"}
                   link={"https://protecgroup.com.ar/"}
                 />
               </div>
               <div className="md:col-span-1 col-span-3">
                 <Proyectos
-                  avatarimg={"./img/logosaludgourmet.png"}
+                  avatarimg={"/logosaludgourmet.png"}
                   name={"Salud Gourmet"}
-                  img={"./img/saludgourmet.png"}
+                  img={"/saludgourmet.png"}
                   link={"https://saludgourmet.com.ar/"}
                 />
               </div>
               <div className="md:col-span-1 col-span-3">
                 <Proyectos
-                  avatarimg={"./img/logoCosmiatramys.jpg"}
+                  avatarimg={"/logoCosmiatramys.jpg"}
                   name={"Cosmiatramys"}
-                  img={"./img/Cosmiatramys.png"}
+                  img={"/Cosmiatramys.png"}
                   link={
                     "https://www.instagram.com/cosmiatramys?igsh=ejF2dTVneWpubHFp"
                   }
@@ -89,17 +89,17 @@ function App() {
               </div>
               <div className="md:col-span-1 col-span-3">
                 <Proyectos
-                  avatarimg={"./img/logoaxe.jpg"}
+                  avatarimg={"/logoaxe.jpg"}
                   name={"Axé Beauty"}
-                  img={"./img/axe.png"}
+                  img={"/axe.png"}
                   link={"https://www.instagram.com/axe.beauty_"}
                 />
               </div>
               <div className="md:col-span-1 col-span-3">
                 <Proyectos
-                  avatarimg={"./img/logoconsultorios.jpg"}
+                  avatarimg={"/logoconsultorios.jpg"}
                   name={"Consultorios medicos integrales"}
-                  img={"./img/consultorios.png"}
+                  img={"/consultorios.png"}
                   link={
                     "https://www.instagram.com/cmedicosintegrales?igsh=emo5aTdrM2hrMzY3"
                   }
