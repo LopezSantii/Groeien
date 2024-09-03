@@ -12,6 +12,7 @@ El sitio web de Groeien, que es una landing page, ha sido diseñado para present
 * Una interfaz de usuario (UI) desarrollada con NextUI y Tailwind CSS, que garantiza una navegación fluida y atractiva en cualquier dispositivo.
 * React se ha utilizado como base tecnológica para crear una experiencia de usuario dinámica y eficiente.
 * La paleta de colores rosa elegida para el sitio no solo añade un toque de personalidad y modernidad, sino que también refuerza la identidad visual de Groeien, creando una experiencia envolvente y coherente.
+  
 Este sitio web refleja el compromiso de Groeien con la innovación y la calidad en cada uno de sus proyectos, ofreciendo a los visitantes una visión clara y profesional de los servicios disponibles.
 
 ### 🚀 Únete a Groeien
