@@ -9,7 +9,7 @@ Groeien es una empresa que se especializa en dos áreas clave: Community Managem
 ### 🌟 El Sitio Web de Groeien
 El sitio web de Groeien, que es una landing page, ha sido diseñado para presentar de manera clara y atractiva los diferentes planes de servicios que ofrece la empresa. El sitio destaca por su enfoque visual y tecnológico, incluyendo:
 
-* Diseños 3D interactivos implementados con Spline, que aportan una experiencia única y moderna al usuario.
+* Diseños 3D interactivos implementados con [Spline](https://spline.design/), que aportan una experiencia única y moderna al usuario.
 * Una interfaz de usuario (UI) desarrollada con NextUI y Tailwind CSS, que garantiza una navegación fluida y atractiva en cualquier dispositivo.
 * React se ha utilizado como base tecnológica para crear una experiencia de usuario dinámica y eficiente.
 * La paleta de colores rosa elegida para el sitio no solo añade un toque de personalidad y modernidad, sino que también refuerza la identidad visual de Groeien, creando una experiencia envolvente y coherente.
